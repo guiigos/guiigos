@@ -19,6 +19,6 @@ Sou um profissional que busca constantemente novos desafios, sou organizado, res
   <br>
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiigos)](https://www.linkedin.com/in/guiigos) 
-  [![Page](https://img.shields.io/badge/-guiigos.com-yellowgreen?style=flat-square&logo=GoogleChrome&logoColor=white&link=https://www.guiigos.com)](https://www.guiigos.com) 
+  [![Page](https://img.shields.io/badge/-guiigos.com-yellowgreen?style=flat-square&logo=GoogleChrome&logoColor=white&link=http://www.guiigos.com)](http://www.guiigos.com) 
   [![PowerShell](https://img.shields.io/badge/-$%20npx%20guiigos-red?style=flat-square&logo=PowerShell&logoColor=white&link=https://www.npmjs.com/package/guiigos)](https://www.npmjs.com/package/guiigos)
 </div>
