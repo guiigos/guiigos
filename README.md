@@ -22,3 +22,8 @@ Sou um profissional que busca constantemente novos desafios, sou organizado, res
   [![Page](https://img.shields.io/badge/-guiigos.com-yellowgreen?style=flat-square&logo=GoogleChrome&logoColor=white&link=http://www.guiigos.com)](http://www.guiigos.com) 
   [![PowerShell](https://img.shields.io/badge/-$%20npx%20guiigos-red?style=flat-square&logo=PowerShell&logoColor=white&link=https://www.npmjs.com/package/guiigos)](https://www.npmjs.com/package/guiigos)
 </div>
+
+<br>
+<br>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
