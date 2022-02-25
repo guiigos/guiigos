@@ -1,6 +1,6 @@
 ### Olá! :relaxed:
 
-Sou um profissional que busca constantemente novos desafios, sou organizado, responsável, comunicativo e entusiasta de novas tecnologias. Já atuei como desenvolvedor mobile utilizando frameworks hibridos e atualmente foco meus estudos no mundo JavaScript!
+Sou um profissional que busca constantemente novos desafios, sou organizado, responsável, comunicativo e entusiasta de novas tecnologias. Já atuei como desenvolvedor mobile utilizando frameworks híbridos e atualmente foco meus estudos no mundo JavaScript!
 
 <br>
 
