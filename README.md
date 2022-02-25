@@ -26,4 +26,4 @@ Sou um profissional que busca constantemente novos desafios, sou organizado, res
 <br>
 <br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guiigos/guiigos/blob/output/github-contribution-grid-snake.svg)
