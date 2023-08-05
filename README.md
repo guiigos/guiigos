@@ -1,6 +1,6 @@
-### Olá! :relaxed:
+### Hello! :relaxed:
 
-Sou um profissional que busca constantemente novos desafios, sou organizado, responsável, comunicativo e entusiasta de novas tecnologias. Já atuei como desenvolvedor mobile utilizando frameworks híbridos e atualmente foco meus estudos no mundo JavaScript!
+I am a professional who is constantly looking for new challenges, I am organized, responsible, communicative and enthusiastic about new technologies. As an experienced web developer, I have accumulated valuable development experience, skillfully utilizing HTML, CSS, JavaScript, TypeScript and various frameworks to build responsive and visually appealing websites. In addition to my technical proficiency, I am a highly collaborative team member and interested in turning ideas into working digital solutions.
 
 <br>
 
@@ -14,7 +14,7 @@ Sou um profissional que busca constantemente novos desafios, sou organizado, res
 
 <div align="center">
   <br>
-  Gostaria de entrar em contato?
+  Would you like to get in touch?
   <br>
   <br>
   
