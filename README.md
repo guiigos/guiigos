@@ -5,7 +5,7 @@ I am a professional who is constantly looking for new challenges, I am organized
 <br>
 
 <img 
-   src="https://github-readme-stats-fiwcmbkkz-guiigos-projects.vercel.app/?username=guiigos&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
+   src="http://github-readme-stats-ovisxnx2n-guiigos-projects.vercel.app/api/?username=guiigos&exclude_repo=metodos-uteis&layout=compact&theme=tokyonight"
    min-width="350px" 
    max-width="350px" 
    width="350px" 
